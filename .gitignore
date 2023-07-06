@@ -1,2 +1,5 @@
 *.pw
 *.class
+*.classpath
+*.project
+
