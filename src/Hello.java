@@ -24,13 +24,13 @@ public class Hello
 
 		System.out.println("\033[31m");  
 		System.out.println("\033[44m");  
-		System.out.print("\033[20;3H");	
+		System.out.print("\033[18;3H");	
 		System.out.println("Hello HTML");  
 
 
 		System.out.println("\033[34m");  
 		System.out.println("\033[41m");  
-		System.out.print("\033[15;30H");	
+		System.out.print("\033[13;35H");	
 		System.out.println("Hello SQL");  
                 
 		System.out.println("\033[0m");
