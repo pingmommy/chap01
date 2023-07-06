@@ -13,7 +13,7 @@ public class Hello
 		System.out.println("\033[31m");  
 		System.out.println("\033[44m");  
 		System.out.print("\033[10;20H");	
-		System.out.println("Hello Java");  
+		System.out.println("Hellow Java");  
 
 		
 		System.out.println("\033[34m");  
